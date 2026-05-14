@@ -17,6 +17,9 @@ Key areas covered in this course include:
 - Control unit operation  
 - Parallel and multiprocessor systems
 
+**Course Support**
+Instructors may approach me for assignments, quizzes, presentation topics, lab/project guidance, and concept clarification related to the course.
+
 ## 👨‍🏫 Instructor
 **Adil Ahmed Unar**  
 Lecturer – Computer Science    
